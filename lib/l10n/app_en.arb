@@ -1,0 +1,14 @@
+{
+
+  "workSchedule": "Work schedule",
+  "workHours": "Work hours",
+  "addAnotherPeriod": "Add another period",
+  "today": "Today",
+  "from": "From",
+  "to": "To",
+  "addAntherHours":"Add Anther hours",
+  "next": "Next",
+  "am": "Am",
+  "pm": "Pm"
+
+}

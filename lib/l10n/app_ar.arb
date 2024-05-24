@@ -1,0 +1,13 @@
+{
+  "workSchedule": "جدول العمل",
+  "workHours": "ساعات العمل",
+  "addAnotherPeriod": "أضف فترة اخري",
+  "today": "اليوم",
+  "from": "من",
+  "to": "إلي",
+  "addAntherHours":"أضف ساعات أخرى",
+  "next": "التالي",
+  "am": "صباحاً",
+  "pm": "مساءً"
+
+}
